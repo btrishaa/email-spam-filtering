@@ -78,4 +78,4 @@ labels_test = build_labels(test_dir)
 
 print('5. Calculating accuracy of the trained classifier')
 accuracy = classifier.score(features_test, labels_test)
-print 'Accuracy : ', accuracy
+print (accuracy)
