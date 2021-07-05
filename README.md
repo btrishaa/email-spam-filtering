@@ -1,4 +1,7 @@
 # email-spam-filtering
+
+https://github.com/btrishaa/email-spam-filtering.git
+
 Developed a classification algorithm, to filter email spam, using the Naive-Bayes Algorithm. The dataset consisted of a corpus of 6K labeled emails; applied text analytics and language processing techniques to train the model.
 
 Implemented a simple machine learning algorithm to classify emails (Spam or Not Spam aka Ham) using Scikit-learn by implementing a Spam filtering classifier based on Multinomial Naive Bayes Algorithm
